@@ -38,15 +38,16 @@ A full-stack job portal application where users can search for jobs, view job de
 ![Job Details](jobportal-yt-main/job_role_show2.png)
 
 ### 4. Sign In / Register  
-![Sign In](./screenshots/sign-in.png)  
-![Register](./screenshots/register.png)
+![Sign In](jobportal-yt-main/sign_up.png)  
+![Register](jobportal-yt-main/Sign_up_Login.png)
 
 ### 5. Admin Panel  
 ![Admin Add Jobs](./screenshots/admin-add-jobs.png)  
 ![Admin Manage Applications](./screenshots/admin-manage-applications.png)
 
 ### 6. User Profile  
-![User Profile](./screenshots/user-profile.png)
+![User Profile](jobportal-yt-main/8c3abcb3-7b11-42e4-8463-1cec920dde85.jpg)
+![User Profile](jobportal-yt-main/8c3abcb3-7b11-42e4-8463-1cec920dde85.jpg)
 
 ---
 
