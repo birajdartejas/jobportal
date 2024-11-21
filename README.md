@@ -46,7 +46,7 @@ A full-stack job portal application where users can search for jobs, view job de
 ![Admin Manage Applications](./screenshots/admin-manage-applications.png)
 
 ### 6. User Profile  
-![User Profile](jobportal-yt-main/8c3abcb3-7b11-42e4-8463-1cec920dde85.jpg)
+![User Profile](jobportal-yt-main/82f3c00b-9185-4049-b85f-b7b321f70218.jpg)
 ![User Profile](jobportal-yt-main/8c3abcb3-7b11-42e4-8463-1cec920dde85.jpg)
 
 ---
