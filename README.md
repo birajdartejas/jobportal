@@ -1,4 +1,4 @@
-# Job Portal Web Application
+# Jobhunt
 
 A full-stack job portal application where users can search for jobs, view job details, manage profiles, and recruiters can add, accept, or reject job applications.
 
