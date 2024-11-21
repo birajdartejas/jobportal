@@ -35,7 +35,7 @@ A full-stack job portal application where users can search for jobs, view job de
 ![Job Listings](jobportal-yt-main/Job_Section.png)
 
 ### 3. Job Details  
-![Job Details](./screenshots/job-details.png)
+![Job Details](jobportal-yt-main/job_role_show2.png)
 
 ### 4. Sign In / Register  
 ![Sign In](./screenshots/sign-in.png)  
