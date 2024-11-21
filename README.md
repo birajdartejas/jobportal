@@ -32,7 +32,7 @@ A full-stack job portal application where users can search for jobs, view job de
 ![Home Page](jobportal-yt-main/home_page7.png)
 
 ### 2. Job Section  
-![Job Listings](./screenshots/job-section.png)
+![Job Listings](jobportal-yt-main/Job_Section.png)
 
 ### 3. Job Details  
 ![Job Details](./screenshots/job-details.png)
